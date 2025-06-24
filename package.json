@@ -1,0 +1,20 @@
+{
+  "name": "git-security-lab-ola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlayinkaOke/git-security-lab-Ola.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlayinkaOke/git-security-lab-Ola/issues"
+  },
+  "homepage": "https://github.com/OlayinkaOke/git-security-lab-Ola#readme",
+  "description": ""
+}
